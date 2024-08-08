@@ -1,4 +1,4 @@
-![Manim Logo](image.png)
+![Manim Logo](https://raw.githubusercontent.com/ManimCommunity/manim/main/logo/cropped.png)
 
 # Manim Animations
 
