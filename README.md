@@ -1,3 +1,5 @@
+![Manim Logo](https://www.manim.community/)
+
 # Manim Animations
 
 Welcome to my Manim Animations repository! This repository is where I store all my Manim code, including projects I'm working on as I learn, as well as future production-ready animations illustrating concepts in Mathematics, Science, and Computer Science.
@@ -82,5 +84,3 @@ This repository is licensed under the MIT License. Feel free to use, modify, and
 - **Community**: Special thanks to the Manim community and all contributors who have helped improve and expand the software.
 
 ---
-
-This template is flexible, so feel free to modify it as your project evolves!
