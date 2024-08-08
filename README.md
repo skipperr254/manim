@@ -1,4 +1,4 @@
-![Manim Logo](https://www.manim.community/)
+![Manim Logo](image.png)
 
 # Manim Animations
 
